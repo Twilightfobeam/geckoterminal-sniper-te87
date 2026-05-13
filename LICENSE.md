@@ -1,4 +1,4 @@
-# 
+# elite geckoterminal sniper bot | gas-optimization + dex-sniping is the best geckoterminal sniper bot, featuring gas-optimization and dex-sniping. Fast, smart, and optimized for
 
 
 
